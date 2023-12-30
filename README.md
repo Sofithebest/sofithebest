@@ -69,19 +69,19 @@
 <br>
 <hr>
 <div align="center">
-    <img width ="400"align="center" src="https://github-readme-stats.vercel.app/api?username=Dsgathebest&show_icons=true&locale=en&theme=holi&rank_icon=github" alt="Dsgathebest" />  
-    <img width ="425"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dsgathebest&theme=holi-theme" alt="Dsgathebest"/>  <br><br>
-    <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Dsgathebest&theme=react-dark&area=true&hide_border=false"/>
+    <img width ="400"align="center" src="https://github-readme-stats.vercel.app/api?username=sofithebest&show_icons=true&locale=en&theme=holi&rank_icon=github" alt="sofithebest" />  
+    <img width ="425"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofithebest&theme=holi-theme" alt="sofithebest"/>  <br><br>
+    <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=sofithebest&theme=react-dark&area=true&hide_border=false"/>
 </div>
 <hr>
 <div align="center">
-<!--   <a href="https://github.com/Dsgathebest/nafnaf-scraper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dsgathebest&repo=nafnaf-scraper&theme=yeblu" />
+<!--   <a href="https://github.com/sofithebest/nafnaf-scraper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofithebest&repo=nafnaf-scraper&theme=yeblu" />
   </a> -->
-  <a href="https://github.com/Dsgathebest/tool-library">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dsgathebest&repo=tool-library&theme=yeblu" />
+  <a href="https://github.com/sofithebest/tool-library">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofithebest&repo=tool-library&theme=yeblu" />
   </a>
-  <a href="https://github.com/Dsgathebest/App-gifs-angular">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dsgathebest&repo=App-gifs-angular&theme=yeblu" />
+  <a href="https://github.com/sofithebest/App-gifs-angular">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofithebest&repo=App-gifs-angular&theme=yeblu" />
   </a>
 </div>
